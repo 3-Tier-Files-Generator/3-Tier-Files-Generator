@@ -14,3 +14,4 @@ Step 4 : Then run ThreeTierEntDalBalFilesCreater.exe and it will create three ne
 
 Within 10 seconds You will get the all three files.
 
+for more detail watch video in given link...
