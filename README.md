@@ -7,13 +7,13 @@ Fallow steps to generator files(ENT, BAL, DAL)
 
 Step 1 : Open Sql , then write sp_help tablename.
 
-Step 2 : Copy the Column name and paste it to the ColumnName in TableData.xls file
+Step 2 : Copy the Column name and Type from SQL paste it to the ColumnName & DataType in TableData.xls file
 
-Step 3 : Copy the Column type and paste it to the DataType in TableData.xls file
+Step 3 : In TableData.xls write the ProjectName and TableName under respective column in TableData.xls file
 
-Step 4 : In TableData.xls write the ProjectName and TableName under respective column in TableData.xls file(Don't Change the Name of 1st row)
+Step 4 : Then Run ThreeTierEntDalBalFilesCreater.exe
 
-Step 5 : Then Run ThreeTierEntDalBalFilesCreater.exe
+(Don't Change the Name of 1st row)
 
 
 Within 10 seconds You will get the all three files.
